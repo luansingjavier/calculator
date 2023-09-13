@@ -26,3 +26,10 @@ $ yarn android
 ```
 
 ## Sample Screenshots
+
+### Arabic Numeral
+
+<img width="1019" alt="Screenshot 2023-09-14 at 03 31 11" src="https://github.com/luansingjavier/calculator/assets/15357174/6070de4c-d16a-43fa-9918-66bca2f3d65b">
+
+### Roman Numeral
+<img width="1019" alt="Screenshot 2023-09-14 at 03 31 37" src="https://github.com/luansingjavier/calculator/assets/15357174/7825046b-a448-43d1-820e-27b607840b30">
