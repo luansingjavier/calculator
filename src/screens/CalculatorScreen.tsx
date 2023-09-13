@@ -183,6 +183,7 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
     flexDirection: 'row',
     justifyContent: 'center',
+    marginHorizontal: 5,
   },
   secondary: {
     padding: 10,
@@ -228,8 +229,8 @@ const styles = StyleSheet.create({
   },
   result: {
     height: 120,
-    width: '100%',
-    paddingHorizontal: 30,
+    width: '90%',
+    paddingHorizontal: 10,
     justifyContent: 'flex-end',
     alignSelf: 'center',
   },
